@@ -18,7 +18,7 @@
   <div align="justify">
   <h3>Tópicos abordados:</h3>
   
-   + Introdução ao Design Responsive;
+   + Introdução ao Design Responsivo;
    + Viewport;
    + Flexbox;
    + Grid Layout;
